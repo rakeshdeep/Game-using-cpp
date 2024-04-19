@@ -1,0 +1,15 @@
+# Ignore build files
+*.o        # Object files
+*.obj      # Object files (Windows)
+*.exe      # Executables (Windows)
+*.out      # Executables (Linux/Mac)
+*.dll      # Dynamic-link libraries (Windows)
+*.so       # Shared objects (Linux)
+*.dylib    # Dynamic libraries (Mac)
+
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
